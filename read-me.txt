@@ -1,0 +1,3 @@
+Hello mate.
+
+This is a read-me file used for a test purpose.
