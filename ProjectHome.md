@@ -1,0 +1,1 @@
+This is a simple outlook add-in project using C#.NET.
